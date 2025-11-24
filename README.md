@@ -210,4 +210,4 @@ Key Learnings
 ---
 
 
-*Security Status: ✅ **SECURED* - All malicious extensions removed, legitimate extensions verified.
+Security Status: SECURED - All malicious extensions removed, legitimate extensions verified.
