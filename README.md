@@ -151,8 +151,8 @@ Security Analysis
 
 Permission Comparison Table
 
-| Extension | Browse History | All Sites Access | Incognito | Risk Level |
-|-----------|----------------|------------------|-----------|------------|
+| Extension | Risk Level |
+|-----------|------------|
 | 360 Internet Protection | CRITICAL |
 | Web Saver | HIGH |
 | Adobe Acrobat |LOW |
